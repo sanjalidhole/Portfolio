@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently diving and learning **Pyspark, Big data, Machine learning, AI Tools**
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://theanalystgopi.github.io/gopi.io/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://github.com/sanjalidhole/Portfolio/blob/main/index.html)
 
 - 📝 I regularly submit my new projects on [https://github.com/sanjalidhole](https://github.com/sanjalidhole)
 
